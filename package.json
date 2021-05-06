@@ -11,7 +11,7 @@
     "d3": "^5.15.1",
     "d3-color": "^1.4.0",
     "d3-interpolate": "^1.4.0",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "leaflet": "1.6.0",
     "leaflet.markercluster": "1.4.1",
